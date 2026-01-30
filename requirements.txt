@@ -4,3 +4,4 @@ matplotlib==3.10.8
 import_ipynb==0.2
 Ipython==8.7.0
 scipy==1.15.3
+voila==0.5.11
